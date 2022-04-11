@@ -1,4 +1,4 @@
-<h1 align = center>INTERFACE SPOTIFY<h1>
+<h1 align = center>Interface Spotify<h1>
 
 ## Sobre o Projeto
 
@@ -6,5 +6,5 @@ Nesse projeto, desenvolvi uma interface do Spotify para aplicar um o conheciment
 
 ## Tecnologias
 
-- Html
+- HTML
 - CSS
